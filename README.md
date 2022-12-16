@@ -1,16 +1,30 @@
-# Проект: ...
+# Проект: "Ne Shkola Gitari"
 
-Цель проекта : ... 
+Цель проекта : Студенческий Проект "Ne Shkola Gitari" реализован в рамках программы Веб-Технологий.
 
 ## Технологии, которые использовались
 
-...
+### Figma
+
+1. Построение Сетки
+2. Создание Стилей
+3. Редактирование шрифтов
+
+### HTML
+
+1. SEO
+2. Семантическая верстка
+
+### CSS
+
+1. Методология БЭМ
+2. Флексбокс верстка
 
 ### Посмотреть макет можно по ссылке ↓
 
-[«Макет Проекта»](https://www.figma.com/file/cGiStCX61OSwYlqHgCUA6d/Hello-World?node-id=0%3A1)
+[«Макет Проекта»](https://www.figma.com/file/w49avx6JZIqw7EBdQN6VxW/Untitled?node-id=0%3A1&t=Pa7RuCeT6jggYL5h-0)
 
 
 ### Посмотреть сайт можно по ссылке ↓
 
-[«Сам Проект»](https://alexparanoir.github.io/start-kit/)
+[«Проект»](https://solidarenv.github.io/Ne-Shkola-Gitari/)
