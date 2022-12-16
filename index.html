@@ -5,14 +5,75 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./pages/index.css">
-  <title>Hello World</title>
+  <title>Ne Shkola Gitari</title>
 </head>
 <body class="page">
   <header class="header">
-    <h1 class="header__title">Hello World!</h1>
+    <div class="container">
+      <nav class="nav header__nav">
+        <div class="nav__picture">
+          <img class="nav__img" src="images/header/logo.png" alt="Ne Shkola Gitari logo">
+        </div>
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a class="nav__link" href="#">Все услуги</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">Связь</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#">Отзывы</a>
+          </li>
+        </ul>
+        <div class="nav__burger"></div>
+      </nav>
+      <article class="header__content">
+        <h1 class="header__title">Хотите научиться играть, но не знаете с чего начать?</h1>
+        <p class="header__descr">Школа частных занятий на гитаре готова предоставить помощь в обучении!</p>
+        <button class="header__order">Записаться на пробный урок</button>
+        <div class="header__video">
+          <p class="header__play">Запись урока можно посмотреть здесь</p>
+          <a href="#" class="header__video-btn">
+            <img class="header__img" src="images/header/play-btn.png" alt="video play button">
+          </a>
+        </div>
+      </article>
+    </div>
   </header>
-  <main class="main"></main>
-  <footer class="footer"></footer>
+  <main class="main">
+    <section class="electro">
+      <div class="container">
+        <h2 class="electro__title">Уроки электрогитары</h2>
+      </div>
+    </section>
+    <section class="bas">
+      <div class="container">
+        <div class="bas__picture">
+          <img class="bas__img" src="images/header/logo.png" alt="Ne Shkola Gitari logo">
+        </div>
+        <h2 class="bas__title">Уроки бас-гитары</h2>
+      </div>
+    </section>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__social">
+        <p class="footer__txt">Мы в соцсетях</p>
+        <div class="footer__links">
+          <div class="footer__picture">
+            <img class="footer__img" src="images/footer/vk logo.png" alt="vk logo">
+          </div>
+          <div class="footer__picture">
+            <img class="footer__img" src="images/footer/youtube logo.png" alt="youtube logo">
+          </div>
+        </div>
+      </div>
+      <div class="footer__contacts">
+        <p class="footer__author">Ursidae</p>
+        <a href="tel:+79189005180" class="footer__phone-number">Тел. +7(918)-900-51-80</a>
+      </div>
+    </div>
+  </footer>
   <script src="./script/index.js"></script>
 </body>
 </html>
