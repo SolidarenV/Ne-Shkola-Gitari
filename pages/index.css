@@ -1,12 +1,48 @@
 @import '../vendor/normalize.css';
 @import '../vendor/variables.css';
 @import '../vendor/fonts/fonts.css';
-/* Blocks */ 
+/* Blocks */
 @import '../blocks/page/page.css';
-/* Header */ 
+/* Header */
 @import '../blocks/header/header.css';
 @import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__content/header__content.css';
+@import '../blocks/header/__descr/header__descr.css';
+@import '../blocks/header/__img/header__img.css';
+@import '../blocks/header/__nav/header__nav.css';
+@import '../blocks/header/__order/header__order.css';
+@import '../blocks/header/__play/header__play.css';
+@import '../blocks/header/__title/header__title.css';
+@import '../blocks/header/__video-btn/header__video-btn.css';
+@import '../blocks/header/__video/header__video.css';
 /* Main */
 @import '../blocks/main/main.css';
 /* Footer */
 @import '../blocks/footer/footer.css';
+@import '../blocks/footer/__author/footer__author.css';
+@import '../blocks/footer/__contacts/footer__contacts.css';
+@import '../blocks/footer/__img/footer__img.css';
+@import '../blocks/footer/__links/footer__links.css';
+@import '../blocks/footer/__phone-number/footer__phone-number.css';
+@import '../blocks/footer/__picture/footer__picture.css';
+@import '../blocks/footer/__social/footer__social.css';
+@import '../blocks/footer/__txt/footer__txt.css';
+@import '../blocks/footer/__wrap/footer__wrap.css';
+/* Nav */
+@import '../blocks/nav/nav.css';
+@import '../blocks/nav/__burger/nav__burger.css';
+@import '../blocks/nav/__img/nav__img.css';
+@import '../blocks/nav/__item/nav__item.css';
+@import '../blocks/nav/__link/nav__link.css';
+@import '../blocks/nav/__list/nav__list.css';
+@import '../blocks/nav/__picture/nav__picture.css';
+/* Container */
+@import '../blocks/container/container.css';
+/* Electro */
+@import '../blocks/electro/electro.css';
+@import '../blocks/electro/__title/electro__title.css';
+/* Bas */
+@import '../blocks/bas/bas.css';
+@import '../blocks/bas/__img/bas__img.css';
+@import '../blocks/bas/__picture/bas__picture.css';
+@import '../blocks/bas/__title/bas__title.css';

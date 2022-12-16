@@ -1,0 +1,6 @@
+.footer__phone-number {
+  margin-top: 20px;
+  color: var(--white-text);
+  text-decoration: none;
+  display: block;
+}

@@ -1,0 +1,6 @@
+.electro {
+  height: 100vh;
+  position: relative;
+  color: rgba(221, 255, 178, 1);
+  background: center/cover no-repeat url("../../images/electro/background.png");
+}

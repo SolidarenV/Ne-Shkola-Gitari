@@ -1,0 +1,9 @@
+.header__video {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 640px;
+  margin-top: 80px;
+  margin-left: 34px;
+  font-size: 25px;
+}
